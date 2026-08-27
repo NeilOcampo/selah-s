@@ -87,7 +87,7 @@ export default function Home(){
         </div>
 
         <div className="relative aspect-[4/5] w-full overflow-hidden md:aspect-[4/5] lg:aspect-auto lg:min-h-[calc(100vh-64px)]">
-          <Image src="/images/hero.jpg" alt="Selahs fashion collection" fill priority className="object-cover object-center" sizes="(max-width:767px) 100vw,50vw"/>
+          <Image src="/images/homepage/hero.jpg" alt="Selahs fashion collection" fill priority className="object-cover object-center" sizes="(max-width:767px) 100vw,50vw"/>
         </div>
       </section>
 
